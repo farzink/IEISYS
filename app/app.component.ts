@@ -6,6 +6,7 @@ interface Hero {
 @Component({
     selector: 'my-app',
     template:`
+    <h2>to force</h2>
     <h1>{{title}}</h1>
     <h2>My Heroes</h2>
     <ul class="heroes">
